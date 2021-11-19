@@ -1,0 +1,10 @@
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\14 Data Types - ReferenceTypes\StructExercise\StructExercise\bin\Debug\StructExercise.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\14 Data Types - ReferenceTypes\StructExercise\StructExercise\bin\Debug\StructExercise.pdb
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\14 Data Types - ReferenceTypes\StructExercise\StructExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\14 Data Types - ReferenceTypes\StructExercise\StructExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\14 Data Types - ReferenceTypes\StructExercise\StructExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\14 Data Types - ReferenceTypes\StructExercise\StructExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\14 Data Types - ReferenceTypes\StructExercise\StructExercise\obj\Debug\StructExercise.csproj.AssemblyReference.cache
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\14 Data Types - ReferenceTypes\StructExercise\StructExercise\obj\Debug\StructExercise.csproj.CoreCompileInputs.cache
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\14 Data Types - ReferenceTypes\StructExercise\StructExercise\obj\Debug\StructExercise.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\14 Data Types - ReferenceTypes\StructExercise\StructExercise\obj\Debug\StructExercise.pdb

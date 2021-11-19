@@ -1,0 +1,14 @@
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControlsTest\bin\Debug\BridgeControlsTest.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControlsTest\bin\Debug\BridgeControlsTest.pdb
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControlsTest\bin\Debug\BridgeControls.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControlsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControlsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControlsTest\bin\Debug\BridgeControls.pdb
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControlsTest\bin\Debug\BridgeControls.dll.config
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControlsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControlsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControlsTest\obj\Debug\BridgeControlsTest.csproj.AssemblyReference.cache
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControlsTest\obj\Debug\BridgeControlsTest.csproj.CoreCompileInputs.cache
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControlsTest\obj\Debug\BridgeControlsTest.csproj.CopyComplete
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControlsTest\obj\Debug\BridgeControlsTest.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControlsTest\obj\Debug\BridgeControlsTest.pdb

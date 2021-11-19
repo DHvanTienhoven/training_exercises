@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructExercise", "StructExercise\StructExercise.csproj", "{C7E7CDA5-203A-479F-A90B-6CB5FD726459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7E7CDA5-203A-479F-A90B-6CB5FD726459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E7CDA5-203A-479F-A90B-6CB5FD726459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E7CDA5-203A-479F-A90B-6CB5FD726459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E7CDA5-203A-479F-A90B-6CB5FD726459}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FB48F4D-B136-4781-A4F8-298F7C610493}
+	EndGlobalSection
+EndGlobal

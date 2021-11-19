@@ -1,0 +1,7 @@
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControls\bin\Debug\BridgeControls.dll.config
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControls\bin\Debug\BridgeControls.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControls\bin\Debug\BridgeControls.pdb
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControls\obj\Debug\BridgeControls.csproj.AssemblyReference.cache
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControls\obj\Debug\BridgeControls.csproj.CoreCompileInputs.cache
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControls\obj\Debug\BridgeControls.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\7 Enums - BridgeControls\BridgeControls\BridgeControls\obj\Debug\BridgeControls.pdb

@@ -1,0 +1,13 @@
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\6 Collections - Lists\ListsExercise\ListsExercise\bin\Debug\ListsExercise.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\6 Collections - Lists\ListsExercise\ListsExercise\bin\Debug\ListsExercise.pdb
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\6 Collections - Lists\ListsExercise\ListsExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\6 Collections - Lists\ListsExercise\ListsExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\6 Collections - Lists\ListsExercise\ListsExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\6 Collections - Lists\ListsExercise\ListsExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\6 Collections - Lists\ListsExercise\ListsExercise\obj\Debug\ListsExercise.csproj.AssemblyReference.cache
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\6 Collections - Lists\ListsExercise\ListsExercise\obj\Debug\ListsExercise.csproj.CoreCompileInputs.cache
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\6 Collections - Lists\ListsExercise\ListsExercise\obj\Debug\ListsExercise.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\6 Collections - Lists\ListsExercise\ListsExercise\obj\Debug\ListsExercise.pdb
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\6 Collections - Lists\ListsExercise\ListsExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\6 Collections - Lists\ListsExercise\ListsExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\6 Collections - Lists\ListsExercise\ListsExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
