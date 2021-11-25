@@ -2,8 +2,8 @@
 {
     public class Pet
     {
-        public int _numberofPetsBorn = 0;
-        public static string _name;
+        public static int _numberofPetsBorn = 0;
+        public string _name;
 
         public Pet()
         {

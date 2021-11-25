@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System.Linq;
 
 namespace GenericsListExercise
 {
@@ -19,6 +20,11 @@ namespace GenericsListExercise
                 new Car("VW", 5)
             };
 
+            List<Bike> bikes = vehicles.OfType<Bike>().ToList();
+            List<Bike> bikesWithHandbrakes = vehicles.OfType<Bike>().Where(bike => bike.HasHandBrakes).ToList();
+
+            Assert.AreEqual(bikes.Count, bikesWithHandbrakes.Count);
+
             // TODO: Loop over all bikes and Assert that they all have hand brakes
         }
 
@@ -32,6 +38,8 @@ namespace GenericsListExercise
                 new Bike("Sparta", true)
             };
 
+            List<Bike> bikesWithHandbrakes = bikes.Where(bike => bike.HasHandBrakes).ToList();
+            Assert.AreEqual(bikes.Count, bikesWithHandbrakes.Count);
             // TODO: Loop over all bikes and Assert that they all have hand brakes
         }
 
@@ -39,7 +47,7 @@ namespace GenericsListExercise
         public void AddOtherVehiclesToBikeList()
         {
             List<Bike> bikes = new List<Bike>();
-
+          //  bikes.Add(new Car());
             // TODO: Try to add a Car to the list of Bikes.
         }
 
@@ -56,6 +64,7 @@ namespace GenericsListExercise
                 new Car("Peugeot", 3),
                 new Car("Peugeot", 5)
             };
+
 
             // TODO: Loop over all vehicles and assert that they are all Peugeots.
 

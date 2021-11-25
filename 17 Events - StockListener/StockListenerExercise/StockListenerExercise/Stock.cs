@@ -9,6 +9,7 @@ namespace StockListenerExercise
     public class Stock
     {
         private double _price;
+        public event EventHandler PriceChanged;
 
         public double Price
         {
@@ -20,9 +21,15 @@ namespace StockListenerExercise
             {
                 _price = value;
 
-                // TODO: Notify the listeners
+                if (PriceChanged != null)
+                {
+
+                }
+               //Add Listener
             }
         }
+
+       
 
         public Stock(double price)
         {

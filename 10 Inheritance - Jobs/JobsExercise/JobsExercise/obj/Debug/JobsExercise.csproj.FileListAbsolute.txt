@@ -1,0 +1,10 @@
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\10 Inheritance - Jobs\JobsExercise\JobsExercise\bin\Debug\JobsExercise.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\10 Inheritance - Jobs\JobsExercise\JobsExercise\bin\Debug\JobsExercise.pdb
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\10 Inheritance - Jobs\JobsExercise\JobsExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\10 Inheritance - Jobs\JobsExercise\JobsExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\10 Inheritance - Jobs\JobsExercise\JobsExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\10 Inheritance - Jobs\JobsExercise\JobsExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\10 Inheritance - Jobs\JobsExercise\JobsExercise\obj\Debug\JobsExercise.csproj.AssemblyReference.cache
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\10 Inheritance - Jobs\JobsExercise\JobsExercise\obj\Debug\JobsExercise.csproj.CoreCompileInputs.cache
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\10 Inheritance - Jobs\JobsExercise\JobsExercise\obj\Debug\JobsExercise.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\10 Inheritance - Jobs\JobsExercise\JobsExercise\obj\Debug\JobsExercise.pdb

@@ -1,0 +1,10 @@
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\13 Extension Methods - Strings\StringExtensionMethods\StringExtensionMethods\obj\Debug\StringExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\13 Extension Methods - Strings\StringExtensionMethods\StringExtensionMethods\obj\Debug\StringExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\13 Extension Methods - Strings\StringExtensionMethods\StringExtensionMethods\bin\Debug\StringExtensionMethods.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\13 Extension Methods - Strings\StringExtensionMethods\StringExtensionMethods\bin\Debug\StringExtensionMethods.pdb
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\13 Extension Methods - Strings\StringExtensionMethods\StringExtensionMethods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\13 Extension Methods - Strings\StringExtensionMethods\StringExtensionMethods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\13 Extension Methods - Strings\StringExtensionMethods\StringExtensionMethods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\13 Extension Methods - Strings\StringExtensionMethods\StringExtensionMethods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\13 Extension Methods - Strings\StringExtensionMethods\StringExtensionMethods\obj\Debug\StringExtensionMethods.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\13 Extension Methods - Strings\StringExtensionMethods\StringExtensionMethods\obj\Debug\StringExtensionMethods.pdb

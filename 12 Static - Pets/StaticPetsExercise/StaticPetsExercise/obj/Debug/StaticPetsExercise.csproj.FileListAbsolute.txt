@@ -1,0 +1,11 @@
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\12 Static - Pets\StaticPetsExercise\StaticPetsExercise\obj\Debug\StaticPetsExercise.csproj.AssemblyReference.cache
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\12 Static - Pets\StaticPetsExercise\StaticPetsExercise\obj\Debug\StaticPetsExercise.csproj.CoreCompileInputs.cache
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\12 Static - Pets\StaticPetsExercise\StaticPetsExercise\bin\Debug\StaticPetsExercise.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\12 Static - Pets\StaticPetsExercise\StaticPetsExercise\bin\Debug\StaticPetsExercise.pdb
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\12 Static - Pets\StaticPetsExercise\StaticPetsExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\12 Static - Pets\StaticPetsExercise\StaticPetsExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\12 Static - Pets\StaticPetsExercise\StaticPetsExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\12 Static - Pets\StaticPetsExercise\StaticPetsExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\12 Static - Pets\StaticPetsExercise\StaticPetsExercise\obj\Debug\StaticPetsExercise.csproj.CopyComplete
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\12 Static - Pets\StaticPetsExercise\StaticPetsExercise\obj\Debug\StaticPetsExercise.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\12 Static - Pets\StaticPetsExercise\StaticPetsExercise\obj\Debug\StaticPetsExercise.pdb

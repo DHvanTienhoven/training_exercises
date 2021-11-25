@@ -1,11 +1,8 @@
 ﻿namespace AudioPlayerExercise
 {
-    public class AudioFile
+    public abstract class AudioFile
     {
-        public string Play()
-        {
-            // TODO: Fix this function
-            return null;
-        }
+        public abstract string Play();
+
     }
 }

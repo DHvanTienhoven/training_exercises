@@ -2,11 +2,11 @@
 
 namespace StaticPetsExercise
 {
-    public static class PetShop
+    public class PetShop
     {
         private static List<Pet> petsList = new List<Pet>();
 
-        public static void AddPet(Pet newPet)
+        public void AddPet(Pet newPet )
         {
             petsList.Add(newPet);
         }

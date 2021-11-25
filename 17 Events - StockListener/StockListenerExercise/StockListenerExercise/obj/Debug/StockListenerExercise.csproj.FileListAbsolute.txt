@@ -1,0 +1,10 @@
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\17 Events - StockListener\StockListenerExercise\StockListenerExercise\obj\Debug\StockListenerExercise.csproj.CoreCompileInputs.cache
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\17 Events - StockListener\StockListenerExercise\StockListenerExercise\bin\Debug\StockListenerExercise.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\17 Events - StockListener\StockListenerExercise\StockListenerExercise\bin\Debug\StockListenerExercise.pdb
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\17 Events - StockListener\StockListenerExercise\StockListenerExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\17 Events - StockListener\StockListenerExercise\StockListenerExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\17 Events - StockListener\StockListenerExercise\StockListenerExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\17 Events - StockListener\StockListenerExercise\StockListenerExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\17 Events - StockListener\StockListenerExercise\StockListenerExercise\obj\Debug\StockListenerExercise.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\17 Events - StockListener\StockListenerExercise\StockListenerExercise\obj\Debug\StockListenerExercise.pdb
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\17 Events - StockListener\StockListenerExercise\StockListenerExercise\obj\Debug\StockListenerExercise.csproj.AssemblyReference.cache

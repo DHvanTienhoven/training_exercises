@@ -19,7 +19,33 @@ namespace StockListenerExercise
             get;
             private set;
         }
+        private Stock _stock;
 
+
+        public Broker(Stock stock)
+        {
+            _stock = stock;
+            stock.PriceChanged += StockPriceChanged;
+            UpdatePrice(stock.Price);
+        }
+
+        private void StockPriceChanged(object sender, EventArgs e)
+        {
+            UpdatePrice(_stock.Price);
+        }
+
+        public void UpdatePrice(double value)
+        {
+            if(value > 100)
+            {
+                IsSelling = true;
+            }
+            else
+            {
+                IsSelling = false;
+            }
+
+        }
         // TODO: Construct and listen
 
         // TODO: Selling from everything bigger than 100.

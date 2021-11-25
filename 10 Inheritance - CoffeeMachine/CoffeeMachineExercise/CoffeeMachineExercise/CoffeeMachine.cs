@@ -13,12 +13,24 @@ namespace CoffeeMachineExercise
 
         public string MakeChocolateMilk()
         {
-            // TODO: Make chocolate milk
+            return $"{_cup} of chocolate milk";
         }
 
         public string MakeCoffee(bool withSugar)
         {
+            string result = $"{_cup} of coffee";
+            if(withSugar)
+            {
+                result += AddSugar();
+            }
+            return result;
+            
             // TODO: Make coffee. With sugar?
+        }
+
+        protected string AddSugar()
+        {
+            return " with sugar";
         }
     }
 }

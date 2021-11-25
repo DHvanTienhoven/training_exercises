@@ -1,0 +1,10 @@
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\16 LINQ - Names\GetJNamesExercise\GetJNamesExercise\obj\Debug\GetJNamesExercise.csproj.AssemblyReference.cache
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\16 LINQ - Names\GetJNamesExercise\GetJNamesExercise\obj\Debug\GetJNamesExercise.csproj.CoreCompileInputs.cache
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\16 LINQ - Names\GetJNamesExercise\GetJNamesExercise\bin\Debug\GetJNamesExercise.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\16 LINQ - Names\GetJNamesExercise\GetJNamesExercise\bin\Debug\GetJNamesExercise.pdb
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\16 LINQ - Names\GetJNamesExercise\GetJNamesExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\16 LINQ - Names\GetJNamesExercise\GetJNamesExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\16 LINQ - Names\GetJNamesExercise\GetJNamesExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\16 LINQ - Names\GetJNamesExercise\GetJNamesExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\16 LINQ - Names\GetJNamesExercise\GetJNamesExercise\obj\Debug\GetJNamesExercise.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\16 LINQ - Names\GetJNamesExercise\GetJNamesExercise\obj\Debug\GetJNamesExercise.pdb

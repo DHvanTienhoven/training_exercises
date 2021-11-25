@@ -10,7 +10,7 @@ namespace StringExtensionMethods
             return input.Split(delimiters,StringSplitOptions.RemoveEmptyEntries).Length;
         }
 
-        public static int CountWhitespace(string input)
+        public static int CountWhitespace(this string input)
         {
             int result = 0;
             foreach (char character in input)

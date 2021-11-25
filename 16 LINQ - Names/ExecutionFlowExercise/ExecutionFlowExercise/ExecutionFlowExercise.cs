@@ -17,7 +17,7 @@ namespace ExecutionFlowExercise
 
             names.Remove("John");
 
-            Assert.AreEqual(/*TODO: true or false*/, result.Contains("John"));
+            Assert.AreEqual(false, result.Contains("John"));
         }
 
         [TestMethod]
@@ -29,7 +29,7 @@ namespace ExecutionFlowExercise
 
             IEnumerable<string> result = names.Where(name => name.Length == 4);
             
-            Assert.AreEqual(/*TODO: true or false*/, result.Contains("John"));
+            Assert.AreEqual(false , result.Contains("John"));
         }
 
         [TestMethod]
@@ -41,7 +41,7 @@ namespace ExecutionFlowExercise
 
             List<string> result = names.Where(name => name.Length == 4).ToList();
 
-            Assert.AreEqual(/*TODO: true or false*/, result.Contains("John"));
+            Assert.AreEqual(false, result.Contains("John"));
         }
 
         [TestMethod]
@@ -53,7 +53,7 @@ namespace ExecutionFlowExercise
 
             names.Remove("John");
 
-            Assert.AreEqual(/*TODO: true or false*/, result.Contains("John"));
+            Assert.AreEqual(true, result.Contains("John"));
         }
     }
 }

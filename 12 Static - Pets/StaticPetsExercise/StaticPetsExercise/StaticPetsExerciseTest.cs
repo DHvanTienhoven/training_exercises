@@ -36,9 +36,10 @@ namespace StaticPetsExercise
             // TODO: Figure out why this doesn't compile
             Pet dog = new Pet();
             dog.SetName("Pluto");
-            Asylum.AddPet(dog);
+            Asylum asylum = new Asylum();
+            asylum.AddPet(dog);
 
-            Assert.AreEqual(1, Asylum.Count);
+            Assert.AreEqual(1, asylum.Count);
         }
 
         [TestMethod]

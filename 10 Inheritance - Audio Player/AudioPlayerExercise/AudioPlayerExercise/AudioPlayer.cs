@@ -8,15 +8,21 @@ namespace AudioPlayerExercise
     /// </summary>
     public class AudioPlayer
     {
+        private List<AudioFile> playlist = new List<AudioFile> { };
         public List<string> PlayAll()
         {
-            // TODO: Fix this function
-            return null;
+            List<string> list = new List<string> { };
+            foreach(AudioFile file in playlist)
+            {
+                list.Add(file.Play());
+            }
+            return list;
         }
 
-        public void AddFileToPlaylist(AudioFile wavFile)
+        public void AddFileToPlaylist(AudioFile file)
         {
-            // TODO: Fix this function
+            playlist.Add(file);
+                  
         }
     }
 }

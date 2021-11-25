@@ -1,0 +1,11 @@
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\11 Interfaces - Alarm Clock\AlarmClockExercise\AlarmClockExercise\obj\Debug\AlarmClockExercise.csproj.AssemblyReference.cache
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\11 Interfaces - Alarm Clock\AlarmClockExercise\AlarmClockExercise\obj\Debug\AlarmClockExercise.csproj.CoreCompileInputs.cache
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\11 Interfaces - Alarm Clock\AlarmClockExercise\AlarmClockExercise\bin\Debug\AlarmClockExercise.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\11 Interfaces - Alarm Clock\AlarmClockExercise\AlarmClockExercise\bin\Debug\AlarmClockExercise.pdb
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\11 Interfaces - Alarm Clock\AlarmClockExercise\AlarmClockExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\11 Interfaces - Alarm Clock\AlarmClockExercise\AlarmClockExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\11 Interfaces - Alarm Clock\AlarmClockExercise\AlarmClockExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\11 Interfaces - Alarm Clock\AlarmClockExercise\AlarmClockExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\11 Interfaces - Alarm Clock\AlarmClockExercise\AlarmClockExercise\obj\Debug\AlarmClockExercise.csproj.CopyComplete
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\11 Interfaces - Alarm Clock\AlarmClockExercise\AlarmClockExercise\obj\Debug\AlarmClockExercise.dll
+C:\Users\dvantienhoven\Desktop\C# training\Exercises\11 Interfaces - Alarm Clock\AlarmClockExercise\AlarmClockExercise\obj\Debug\AlarmClockExercise.pdb
